@@ -7,16 +7,12 @@
     ----------------------------------------------------------------- 
 
 
-Welcome to your Node.js project on Cloud9 IDE!
+Uzman kiraladan gelen bir istek uzerine http://www.ogretmenburada.com/ogretmen/
+adresindeki tel nolari alan basit kod
 
-This chat example showcases how to use `socket.io` with a static `express` server.
+1- once site sucker ile siteyi crawl ettim
+log tutmasini sagladim. indirdigi linklerin listesini data dosyasina aldim
+daha sonrada ekteki kod ile telno alnini tespit edip konsola yazdirdim
 
-## Running the server
-
-1) Open `server.js` and start the app by clicking on the "Run" button in the top menu.
-
-2) Alternatively you can launch the app from the Terminal:
-
-    $ node server.js
-
-Once the server is running, open the project in the shape of 'https://projectname-username.c9.io/'. As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
+Nuri Erginer
+18 KASIM 2014
